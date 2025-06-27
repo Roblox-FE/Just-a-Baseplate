@@ -1,3 +1,5 @@
+--chatgpt, supprise! the dude who led yiu here made this lol
+
 --fe slithering jiggling dick
 
 local length = 5
